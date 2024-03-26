@@ -1,0 +1,26 @@
+{
+  "name": "com.pixygon.dialogue",
+  "version": "0.5.0",
+  "displayName": "Pixygon - Dialogue",
+  "description": "Dialogue-system for Pixygon",
+  "unity": "2022.1",
+  "unityRelease": "20f1",
+  "documentationUrl": "https://www.pixygon.io/dev/micro",
+  "changelogUrl": "https://www.pixygon.io/dev/micro/changelog",
+  "licensesUrl": "https://www.pixygon.io/dev/micro/license",
+  "dependencies": {
+    "com.pixygon.actors": "0.5.0",
+    "com.pixygon.micro": "0.7.4"
+ },
+"hideInEditor": false,
+ "keywords": [
+    "Pixygon",
+    "Debug",
+    "Tool"
+  ],
+  "author": {
+    "name": "Pixygon",
+    "email": "pixygon@pixygon.io",
+    "url": "https://www.pixygon.io"
+  }
+}
