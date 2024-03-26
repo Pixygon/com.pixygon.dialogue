@@ -11,5 +11,6 @@ namespace Pixygon.Dialogue {
 
         public bool HasText => _dialogueStub != null;
         public string Text => _dialogueStub.GetText(Languages.English);
+        public Character Character => _dialogueStub.Character;
     }
 }

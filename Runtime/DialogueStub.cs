@@ -4,6 +4,7 @@ using UnityEngine;
 namespace Pixygon.Dialogue {
     [CreateAssetMenu(menuName = "Pixygon/Dialogue/New DialogueStub")]
     public class DialogueStub : ScriptableObject {
+        public Character Character;
         public string EnglishText;
         public string NorwegianText;
         public string UkrainianText;
