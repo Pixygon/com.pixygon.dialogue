@@ -2,9 +2,8 @@
     "name": "Pixygon.Dialogue",
     "rootNamespace": "Pixygon.Dialogue",
     "references": [
-        "GUID:ed8c5617cceaa444fa73f3c34ac30fe8",
         "GUID:6055be8ebefd69e48b49212b09b47b2f",
-        "GUID:b1960159195634dc095fe81eb7065d48",
+        "GUID:9b78eabf268d3824f929c4e61b2680ff",
         "GUID:58ac023e3e1e9e346a2d594cf76f4ed0"
     ],
     "includePlatforms": [],

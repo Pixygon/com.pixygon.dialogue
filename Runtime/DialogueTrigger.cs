@@ -1,4 +1,4 @@
-﻿using Pixygon.Micro;
+﻿using Pixygon.Core;
 using UnityEngine;
 
 namespace Pixygon.Dialogue {
